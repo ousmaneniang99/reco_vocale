@@ -1,0 +1,2 @@
+streamlit==1.24.1
+speechrecognition==3.9.0
